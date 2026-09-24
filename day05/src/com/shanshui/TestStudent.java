@@ -4,7 +4,7 @@ import com.shanshui.pojo.Animal;
 import com.shanshui.pojo.Student;
 
 /**
- * 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
+ *
  */
 public class TestStudent {
     public static void main(String[] args) {
