@@ -3,6 +3,9 @@ package com.shanshui;
 import com.shanshui.pojo.Animal;
 import com.shanshui.pojo.Student;
 
+/**
+ * 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
+ */
 public class TestStudent {
     public static void main(String[] args) {
         //Student student = new Student("eric",12,"USA");
